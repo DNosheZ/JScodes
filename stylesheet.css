@@ -1,0 +1,19 @@
+body{
+    background-color: black;
+}
+h1{
+    color:white;
+}
+ul, li{
+    color:white;
+}
+#cajon{/*estilos del div que se muestra y se oculta dependiendo del boton que toque*/
+    width: 10%;
+    height: 300%;
+    padding: 7%;
+    background: antiquewhite;
+    border: 5px dashed red;
+    line-height: 50px;
+    margin-top: 15px;
+    text-align: center;
+}
